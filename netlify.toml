@@ -1,0 +1,10 @@
+[build]
+  publish = "public/"
+  command = "npm run build"
+
+[build.environment]
+  NETLIFY_REBUILD_CACHE = "true"
+
+[[plugins]]
+  # Installs the Lighthouse Build Plugin for all deploy contexts
+  package = "@netlify/plugin-lighthouse"
