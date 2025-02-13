@@ -5,8 +5,8 @@ description: Skip months of setup time with this professionally crafted Loupedec
   and color grading, plus custom effects presets. Trusted by professional editors
   for faster, more efficient video production.
 preloadImg: "/assets/images/landing.jpg"
-hero title: 10x Your Final Cut Pro Editing Speed
 hero title 2: Without the Learning Curve or Hassle
+hero title: 10x Your Final Cut Pro Editing Speed
 layout: default
 ---
 
