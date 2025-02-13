@@ -8,7 +8,7 @@ preloadImg: "/assets/images/landing.jpg"
 <section id="hero-288">
     <div class="cs-container">
         <div class="cs-content">
-            <h1 class="cs-title">10x Your Final Cut Pro Editing Speed <span class="cs-title-alt">Without the Learning Curve</span></h1>
+            <h1 class="cs-title">{{ page['hero title'] }} <span class="cs-title-alt">{{ page['hero title 2'] }}</span></h1>
             <p class="cs-text">
                 Stop wrestling with complex shortcuts. This battle-tested <strong>Loupedeck CT</strong> profile gives you instant access to the most essential FCP commands, carefully refined over 2 years with professional editors. Start editing faster today.
             </p>
