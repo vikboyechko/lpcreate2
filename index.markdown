@@ -1,11 +1,13 @@
 ---
 title: Loupedeck CT Profile Final Cut Pro | Custom Loupedeck Profile Final Cut
-layout: default
 description: Skip months of setup time with this professionally crafted Loupedeck
   CT profile for Final Cut Pro. Features optimized banks for editing, motion, audio,
   and color grading, plus custom effects presets. Trusted by professional editors
   for faster, more efficient video production.
 preloadImg: "/assets/images/landing.jpg"
+hero title: 10x Your Final Cut Pro Editing Speed
+hero title 2: Without the Learning Curve
+layout: default
 ---
 
 <section id="hero-288">
